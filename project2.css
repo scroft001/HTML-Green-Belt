@@ -1,0 +1,33 @@
+html {
+	background-image: url(robot.jpg);
+	background-size: cover;
+}
+
+body {
+	background-color: rgba(255, 255, 255, 0.493);
+	height: auto;
+	text-align: center;
+	width: 50%;
+	margin: auto;
+	padding: 15px;
+}
+
+a {
+	text-decoration: none;
+	color: rgb(51, 51, 51);
+	padding: 5px;
+}
+
+a:hover {
+	color: rgb(82, 179, 243);
+	border-bottom: 2px solid white;
+}
+
+img {
+	width: 100%;
+}
+
+p {
+	font-size: 16px;
+	line-height: 1.2em;
+}

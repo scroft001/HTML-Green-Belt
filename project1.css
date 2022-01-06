@@ -1,0 +1,14 @@
+body {
+	text-align: center;
+	background-color: gray;
+	color: rgb(79, 79, 231);
+}
+
+img {
+	width: 40%;
+}
+
+a {
+	color: white;
+	font-size: 18px;
+}
